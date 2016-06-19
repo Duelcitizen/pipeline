@@ -1,0 +1,71 @@
+body{
+font-family:serif, georgia, times, times new roman;
+	font-size: 18px;
+	color: black;
+	background-color:white
+	margin: 0
+	
+	;
+	}
+	/*gainsboro for background color*/
+	
+	
+style {
+		background-color: darkgray
+		}
+			
+ul {
+	text-align: center;
+	list-style-type:none;
+	}
+	
+	
+h2 {
+	font-size: 24px;
+	color: DarkCyan;
+	text-align: center;
+	}
+	
+p.one {font-weight: bold;
+		color: black;
+		text-align: center;
+		}		
+		
+p.two {text-align: center;}		
+	
+i {
+	color: DarkCyan;}
+/* title section colors*/
+strong {
+	color: darkslategray;}
+	
+p b {
+color: DarkCyan! important;
+}
+
+.page {
+
+border: 1px solid #665544;
+background-color: DarkCyan;
+background-color: hsla (100);
+padding: inherit;}
+
+h5 { text-align:center;
+}
+	
+h1{
+	Font-size: 40px;
+	text-align: center;
+	color: DarkCyan;
+	}
+	
+	
+li>a { 
+	color: white! important;
+	
+	}
+	
+	
+	/*recognized color list: http://www.w3schools.com/colors/colors_names.asp*/
+	
+
